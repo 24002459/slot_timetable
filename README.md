@@ -29,7 +29,7 @@ Execute the program using runserver command.
 <html>
 <head>
     <img src="./logo.png" width="1300" height="200">
-    <title>College Timetable</title>
+    <title>College Timetable-Preetham Kumar(212224040032)</title>
     <style>
         body {
             font-family: Arial, sans-serif;
