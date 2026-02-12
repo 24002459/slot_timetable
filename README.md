@@ -28,6 +28,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
+    <img src="./logo.png" width="1300" height="200">
     <title>College Timetable</title>
     <style>
         body {
@@ -157,10 +158,11 @@ Execute the program using runserver command.
 
 </body>
 </html>
+
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2026-02-12 140800.png>)
+![alt text](<Screenshot 2026-02-12 141717.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
