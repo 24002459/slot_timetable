@@ -29,7 +29,7 @@ Execute the program using runserver command.
 <html>
 <head>
     <img src="./logo.png" width="1300" height="200">
-    <title>College Timetable-Preetham Kumar(212224040032)</title>
+    <title>College Timetable</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -77,7 +77,7 @@ Execute the program using runserver command.
 
 <body>
 
-<h1>College Timetable</h1>
+<h1>College Timetable-Preetham Kumar(212224040032)</h1>
 
 <table>
     <tr>
@@ -92,7 +92,7 @@ Execute the program using runserver command.
         <td>Monday</td>
         <td>FWAD</td>
         <td>DBMS</td>
-        <td class="lunch">Lunch</td>
+        <td rowspan=5 class="lunch">Lunch</td>
         <td>-</td>
     </tr>
 
@@ -100,7 +100,6 @@ Execute the program using runserver command.
         <td>Tuesday</td>
         <td>FWAD</td>
         <td>-</td>
-        <td class="lunch">Lunch</td>
         <td>-</td>
     </tr>
 
@@ -108,7 +107,6 @@ Execute the program using runserver command.
         <td>Wednesday</td>
         <td>-</td>
         <td>FWAD</td>
-        <td class="lunch">Lunch</td>
         <td>Mentor Meet</td>
     </tr>
 
@@ -116,7 +114,6 @@ Execute the program using runserver command.
         <td>Thursday</td>
         <td>-</td>
         <td>-</td>
-        <td class="lunch">Lunch</td>
         <td>FWAD</td>
     </tr>
 
@@ -124,7 +121,6 @@ Execute the program using runserver command.
         <td>Friday</td>
         <td>-</td>
         <td>FWAD</td>
-        <td class="lunch">Lunch</td>
         <td>DBMS</td>
     </tr>
 
@@ -162,7 +158,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2026-02-12 141717.png>)
+![alt text](<Screenshot 2026-02-12 142730.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
